@@ -11,3 +11,4 @@ print ("Cetak: " , tupd[3])
 tupd [-3:]
 print ("Cetak: " , tupd[-3:])
 print ("Panjang Tupple d : ", len(tupd))
+
